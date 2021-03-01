@@ -35,5 +35,6 @@ The following is the modifications that have been made to meet the accessibility
 
 **Link to deployed application**
 
-Please navigate to <hzzrin.github.io/w1_Hyerin_Horiseon_collabo> to view the live webpage. 
+For the URL of the deployed application: <https://hzzrin.github.io/w1_Hyerin_Horiseon_collabo/>
 
+For the live website: <https://hzzrin.github.io/w1_Hyerin_Horiseon_collabo/Develop%20copy/index.html>
